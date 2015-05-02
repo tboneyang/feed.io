@@ -19,4 +19,4 @@ As developers, we noticed none of our solutions allowed us to have a simple IRC-
 The application relies on MongoDB to persist data. You will need to make sure you have MongoDB installed and have the process running. [Click here for more information on installing MongoDB.](http://docs.mongodb.org/manual/installation/ "Install MongoDB")
 
 ### License
-Copyright (c) 2013 [Alex Freska](https://github.com/alexfreska) and [Nikhil Srinivasan](https://github.com/nikhilsrinivasan). Licensed under the [MIT License](https://github.com/alexfreska/feed.io/blob/master/LICENSE).
+Copyright (c) 2013 [Alex Freska](https://github.com/alexfreska), [Tom Yang](https://github.com/tboneyang) and [Nikhil Srinivasan](https://github.com/nikhilsrinivasan). Licensed under the [MIT License](https://github.com/alexfreska/feed.io/blob/master/LICENSE).
